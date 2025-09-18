@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CientManagement
+/src/CientManagement.WebApi/bin/Debug/net9.0
+/src/CientManagement.WebApi/obj
+/src/ClientManagement.Application/bin/Debug/net9.0
+/src/ClientManagement.Application/obj
+/src/ClientManagement.Domain/bin/Debug/net9.0
+/src/ClientManagement.Domain/obj
+/src/ClientManagement.Infrastructure/bin/Debug/net9.0
+/src/ClientManagement.Infrastructure/obj
