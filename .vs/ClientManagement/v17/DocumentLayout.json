@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\git_hub\\Testes\\client-management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|solutionrelative:src\\clientmanagement.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\git_hub\\Testes\\client-management\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|solutionrelative:src\\clientmanagement.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D688761F-3C47-48FE-9790-6811F146F9D5}|src\\ClientManagement.Infrastructure\\ClientManagement.Infrastructure.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.infrastructure\\data\\map\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D688761F-3C47-48FE-9790-6811F146F9D5}|src\\ClientManagement.Infrastructure\\ClientManagement.Infrastructure.csproj|solutionrelative:src\\clientmanagement.infrastructure\\data\\map\\productmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\git_hub\\Testes\\client-management\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02580E7-CED9-4543-977B-9763B2A2098C}|src\\ClientManagement.Application\\ClientManagement.Application.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02580E7-CED9-4543-977B-9763B2A2098C}|src\\ClientManagement.Application\\ClientManagement.Application.csproj|solutionrelative:src\\clientmanagement.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D174FF-F1CF-4D4E-A62F-96CA7C1FDB2C}|src\\ClientManagement.Domain\\ClientManagement.Domain.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55D174FF-F1CF-4D4E-A62F-96CA7C1FDB2C}|src\\ClientManagement.Domain\\ClientManagement.Domain.csproj|solutionrelative:src\\clientmanagement.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D688761F-3C47-48FE-9790-6811F146F9D5}|src\\ClientManagement.Infrastructure\\ClientManagement.Infrastructure.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.infrastructure\\data\\map\\saleitemmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D688761F-3C47-48FE-9790-6811F146F9D5}|src\\ClientManagement.Infrastructure\\ClientManagement.Infrastructure.csproj|solutionrelative:src\\clientmanagement.infrastructure\\data\\map\\saleitemmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02580E7-CED9-4543-977B-9763B2A2098C}|src\\ClientManagement.Application\\ClientManagement.Application.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02580E7-CED9-4543-977B-9763B2A2098C}|src\\ClientManagement.Application\\ClientManagement.Application.csproj|solutionrelative:src\\clientmanagement.application\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|solutionrelative:src\\clientmanagement.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A576E23-3D7B-292B-8628-64A210AE954C}|src\\ClientManagement.WebApi\\ClientManagement.WebApi.csproj|d:\\git_hub\\testes\\client-management\\src\\clientmanagement.webapi\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,6 +63,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-19T05:55:38.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-19T05:45:46.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductMap.cs",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Infrastructure\\Data\\Map\\ProductMap.cs",
+              "RelativeDocumentMoniker": "src\\ClientManagement.Infrastructure\\Data\\Map\\ProductMap.cs",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Infrastructure\\Data\\Map\\ProductMap.cs",
+              "RelativeToolTip": "src\\ClientManagement.Infrastructure\\Data\\Map\\ProductMap.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:40:50.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaleItemMap.cs",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Infrastructure\\Data\\Map\\SaleItemMap.cs",
+              "RelativeDocumentMoniker": "src\\ClientManagement.Infrastructure\\Data\\Map\\SaleItemMap.cs",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Infrastructure\\Data\\Map\\SaleItemMap.cs",
+              "RelativeToolTip": "src\\ClientManagement.Infrastructure\\Data\\Map\\SaleItemMap.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:40:34.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\ClientManagement.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\ClientManagement.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:40:18.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Application\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "src\\ClientManagement.Application\\Services\\ClientService.cs",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Application\\Services\\ClientService.cs",
+              "RelativeToolTip": "src\\ClientManagement.Application\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:38:21.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\ClientManagement.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "src\\ClientManagement.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T05:35:49.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.WebApi\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "src\\ClientManagement.WebApi\\Controllers\\LoginController.cs",
@@ -47,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "ClientController.cs",
               "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.WebApi\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "src\\ClientManagement.WebApi\\Controllers\\ClientController.cs",
@@ -60,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "SaleController.cs",
               "DocumentMoniker": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.WebApi\\Controllers\\SaleController.cs",
               "RelativeDocumentMoniker": "src\\ClientManagement.WebApi\\Controllers\\SaleController.cs",
@@ -79,7 +198,7 @@
               "RelativeDocumentMoniker": "src\\ClientManagement.WebApi\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\git_hub\\Testes\\client-management\\src\\ClientManagement.WebApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "src\\ClientManagement.WebApi\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T04:06:49.66Z",
               "EditorCaption": ""

@@ -29,7 +29,10 @@ namespace ClientManagement.Infrastructure.Data.Map
             builder.Property(p => p.Stock)
                 .IsRequired();
 
-            builder.Property(p => p.DataCadastro)
+            builder.Property(p => p.DataCadastro).HasConversion(
+        v => v.ToUniversalTime(),    // ao salvar
+        v => DateTime.SpecifyKind(v, DateTimeKind.Utc)  // ao ler
+    )
                 .IsRequired();
 
             builder.Property(p => p.DataEdicao);

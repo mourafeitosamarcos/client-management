@@ -152,23 +152,12 @@
   },
   {
     "ContainingType": "ClientManagement.WebApi.Controllers.ProductController",
-    "Method": "GetProdutos",
+    "Method": "ObterTodosProdutos",
     "RelativePath": "api/Product",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "preco_min",
-        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
-      },
-      {
-        "Name": "preco_max",
-        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "IsRequired": false
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[ClientManagement.Application.Dto.ProductDTO, ClientManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
@@ -246,12 +235,33 @@
   },
   {
     "ContainingType": "ClientManagement.WebApi.Controllers.ProductController",
-    "Method": "ObterTodosProdutos",
-    "RelativePath": "api/Product/all",
+    "Method": "GetProdutos",
+    "RelativePath": "api/Product/GetByRange/{preco_min}/{preco_max}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "preco_min",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "preco_max",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "preco_min",
+        "Type": "",
+        "IsRequired": true
+      },
+      {
+        "Name": "preco_max",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[ClientManagement.Application.Dto.ProductDTO, ClientManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",

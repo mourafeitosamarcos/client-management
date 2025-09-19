@@ -15,6 +15,9 @@ Essa separação facilita testes, manutenção e evolução do sistema, além de isolar
 
 ## Banco de Dados e Migrações
 
+Nesse Projeto Optei por usar o **PostgreSQL** como banco de dados relacional, por ser um banco de baixo custo e Robusto oferece o que o projeto precisa em um MVP e 
+tambem o que ele precisa no futuro, além disso pode ser utilizado tanto no onprimece quanto em todos os clouds com custo relativo
+
 ![Diagrama do Banco de Dados](banco.png)
 
 O projeto utiliza **Entity Framework Core** para gerenciamento do banco de dados. As migrações são criadas e aplicadas com os comandos:

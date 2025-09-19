@@ -25,7 +25,7 @@ namespace ClientManagement.WebApi.Controllers
             return CreatedAtAction(nameof(ObterProdutoPorId), new { id = createdProduct.Id }, createdProduct);
         }
 
-        [HttpGet]
+        [HttpGet("GetByRange")]
         public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProdutos([FromQuery] decimal? preco_min, [FromQuery] decimal? preco_max)
         {
             var produtos = await _productService.GetByRangePrice(preco_min ?? decimal.MinValue, preco_max ?? decimal.MaxValue);
@@ -41,7 +41,7 @@ namespace ClientManagement.WebApi.Controllers
             return Ok(produto);
         }
 
-        [HttpGet("all")]
+        [HttpGet]
         public async Task<ActionResult<IEnumerable<ProductDTO>>> ObterTodosProdutos()
         {
             var produtos = await _productService.GetAll();
