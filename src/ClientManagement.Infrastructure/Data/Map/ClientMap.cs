@@ -1,11 +1,6 @@
 ﻿using ClientManagement.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ClientManagement.Infrastructure.Data.Map
 {
@@ -32,8 +27,7 @@ namespace ClientManagement.Infrastructure.Data.Map
                 .HasMaxLength(200);
 
             builder.Property(c => c.Password)
-                .IsRequired()
-                .HasMaxLength(100);
+                .IsRequired().HasColumnType("TEXT");
 
             builder.Property(c => c.DataCadastro)
                 .IsRequired();

@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\Services\" />
-    <Folder Include="Interfaces\Repository\" />
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\ClientManagement.Domain\ClientManagement.Domain.csproj" />
   </ItemGroup>
 
 </Project>
